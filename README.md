@@ -167,9 +167,9 @@ pnpm clean
 
 ### Tasks
 
-#### Deploy EncryptedERC20
+#### Deploy RandomPhoto
 
-Deploy a new instance of the EncryptedERC20 contract via a task:
+Deploy a new instance of the RandomPhoto contract via a task:
 
 ```sh
 pnpm task:deployERC20
